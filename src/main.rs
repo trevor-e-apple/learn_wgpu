@@ -1,6 +1,4 @@
-mod lib;
-
-use crate::run;
+use learn_wgpu::run;
 
 fn main() {
     run().unwrap();
